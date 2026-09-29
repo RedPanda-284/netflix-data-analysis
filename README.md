@@ -5,7 +5,7 @@ This project involves using pandas.
 
 ## **Dataset**: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## **Notebook**: [View notebook](notebook/netflix_analysis.ipynb)
+## **Notebook**: [View notebook](notebooks/netflix_analysis.ipynb)
 
 ## How I prepared the dataset:
 - Handling missing values in columns like director, cast, and country
